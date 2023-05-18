@@ -1,0 +1,36 @@
+.container{
+    padding: 50px 30px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 30px;
+    background-color: whitesmoke;
+    min-height: 75vh;
+}
+
+.heading{
+    margin: 0 auto;
+    max-width: 750px;
+    color: black;
+    font-size: 3.5rem;
+    line-height: 4.1rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+   
+}
+
+.heading span{
+    background-clip: text;
+    background-image:linear-gradient(to right,rgb(36, 206, 27),blue);
+    color: transparent;
+    
+
+}
+
+
+.right img{
+    width: 800px;
+
+}
